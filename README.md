@@ -8,6 +8,9 @@ I also configured **AWS Security Groups** to expose port `8000` and allow public
 
 ## 📽️ Demo
 
+![Demo of AWS Node App Deployment](demo.gif)
+
+
 > ▶️ Watch the video below to see the complete deployment in action:
 
 **[Aws_Node_app_deployment.mkv](Aws_Node_app_deployment.mkv)**
